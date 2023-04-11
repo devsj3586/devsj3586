@@ -1,22 +1,46 @@
-![header](https://capsule-render.vercel.app/api?section=header)
+<br>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=Louis's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
+  </p>
 
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<div align='center'> 🖥현재 열심히 공부하고있는 백엔드 개발자입니다.</div>
+<br>
+<div align='center'> Email : devsj3586@gmail.com</div>
+<div align='center'> Blog : <a href="https://charcoal.tistory.com">https://charcoal.tistory.com</a></div>
+<br>
+<p align="center">
+🍚&nbsp&nbsp&nbsplanguages
+  </p>
+<p align="center">
+<img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/java-icon.svg">
+</p>
+ <p align="center">
+🍱&nbsp&nbspDatabase
+  </p>
+<p align="center">
+<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/mysql-icon.svg">
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp
+&nbsp
+&nbsp
+  </p> 
+  
+<p align="center">
+🥘 &nbsp&nbspAPIs
+  </p>
+<p align="center">
+<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/restapi-icon.svg">
+<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/graphql-icon.svg">
+<img alt= "icon" wide="60" height="60" src ="https://symbols.getvecta.com/stencil_89/37_nestjs-icon.a67daec196.svg">
+  </p>
+<p align="center">
+  </p>
+<br>
+<br>
+<p align="center">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyukina1418%2Fhit-counter&count_bg=%2321A03A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+</p>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: JAVA / SPRING / SPRING BOOT / JPA / MYSQL  / MARIADB /
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
-
-<div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-	
-  </div>
-
-![footer](https://capsule-render.vercel.app/api?section=footer)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  </p>
