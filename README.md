@@ -26,11 +26,10 @@
   </p> 
   
 <p align="center">
-🥘 &nbsp&nbspAPIs
+🥘 &nbsp&nbspAPI
   </p>
 <p align="center">
 <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/restapi-icon.svg">
-<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/springboot-icon.svg">
   </p>
 <p align="center">
   </p>
