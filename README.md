@@ -12,16 +12,14 @@
 🍚&nbsp&nbsp&nbsplanguages
   </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
-<img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/java-icon.svg">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 </p>
  <p align="center">
 🍱&nbsp&nbspDatabase
   </p>
 <p align="center">
-<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/mysql-icon.svg">
-&nbsp
-<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/mysql-icon.svg">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
 &nbsp
   </p> 
 <p align="center">
