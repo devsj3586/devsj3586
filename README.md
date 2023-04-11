@@ -23,13 +23,7 @@
 &nbsp
   </p> 
 <p align="center">
-🥘 &nbsp&nbspAPI
-  </p>
-<p align="center">
-<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/restapi-icon.svg">
-  </p>
-<p align="center">
-  </p>
+ </p>
 <br>
 <br>
 <p align="center">
