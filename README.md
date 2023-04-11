@@ -19,6 +19,7 @@
   </p>
 <p align="center">
 <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/mysql-icon.svg">
+  <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/mariadb-icon.svg">
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 &nbsp
 &nbsp
