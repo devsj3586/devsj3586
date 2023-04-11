@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=Louis's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
+<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=charcoal's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
   </p>
 
 <div align='center'> 🖥현재 열심히 공부하고있는 백엔드 개발자입니다.</div>
