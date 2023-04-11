@@ -12,6 +12,8 @@
 🍚&nbsp&nbsp&nbsplanguages
   </p>
 <p align="center">
+ <img alt="Html" src ="https://img.shields.io/badge/Java.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+ &nbsp
 <img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/java-icon.svg">
 </p>
  <p align="center">
@@ -19,13 +21,10 @@
   </p>
 <p align="center">
 <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/mysql-icon.svg">
-  <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/mariadb-icon.svg">
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 &nbsp
-&nbsp
+<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/mysql-icon.svg">
 &nbsp
   </p> 
-  
 <p align="center">
 🥘 &nbsp&nbspAPI
   </p>
