@@ -12,7 +12,7 @@
 🍚&nbsp&nbsp&nbsplanguages
   </p>
 <p align="center">
- <img alt="Html" src ="https://img.shields.io/badge/Java.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+ <img alt="Html" src ="https://img.shields.io/badge/ava.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
  &nbsp
 <img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/java-icon.svg">
 </p>
