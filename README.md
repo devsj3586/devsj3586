@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?section=footer)
+![header](https://capsule-render.vercel.app/api?section=header)
 
 ### Hi there 👋
 <div align=center>
